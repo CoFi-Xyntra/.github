@@ -1,6 +1,6 @@
 # 🚀 Welcome
 
-<figure><img src=".gitbook/assets/d44.png" alt=""><figcaption></figcaption></figure>
+<img width="1895" height="415" alt="d44" src="https://github.com/user-attachments/assets/2fd3f7b3-40c5-4ae7-bd91-60195afcf39c" />
 
 Welcome aboard Xyntra (formerly CoFi), the revolutionary AI copilot that's turbocharging Decentralized Finance (DeFi) in Web3! Imagine navigating the vast cosmos of blockchain with a trusty AI sidekick that understands your every command in plain English. No more fumbling with clunky interfaces or deciphering cryptic contracts—Xyntra simplifies transfers, swaps, staking, and more, all while executing smart contracts directly from your chat responses.
 
