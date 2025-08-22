@@ -1,7 +1,3 @@
----
-icon: crow
----
-
 # 🚀 Welcome
 
 <figure><img src=".gitbook/assets/d44.png" alt=""><figcaption></figcaption></figure>
@@ -98,5 +94,4 @@ MIT License—free to fork and fly. See LICENSE for details.
 Questions? Hop into our tweet @XyntraCoFi. Let's redefine DeFi together! 🌟
 
 ## 🔄System Flow Diagram
-
-<figure><img src=".gitbook/assets/Flow Diagram of CofiXyntra.jpg" alt=""><figcaption></figcaption></figure>
+![Flow Diagram of CofiXyntra](https://github.com/user-attachments/assets/3b6aabdc-39c0-4cec-826a-7357929da83f)
